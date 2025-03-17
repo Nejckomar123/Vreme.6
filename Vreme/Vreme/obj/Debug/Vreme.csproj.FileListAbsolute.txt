@@ -1,0 +1,16 @@
+C:\Users\Patrik.DESKTOP-GR6UUPI\source\repos\Vreme\Vreme\bin\Debug\Vreme.exe.config
+C:\Users\Patrik.DESKTOP-GR6UUPI\source\repos\Vreme\Vreme\bin\Debug\Vreme.exe
+C:\Users\Patrik.DESKTOP-GR6UUPI\source\repos\Vreme\Vreme\bin\Debug\Vreme.pdb
+C:\Users\Patrik.DESKTOP-GR6UUPI\source\repos\Vreme\Vreme\obj\Debug\Vreme.csproj.AssemblyReference.cache
+C:\Users\Patrik.DESKTOP-GR6UUPI\source\repos\Vreme\Vreme\obj\Debug\Vreme.Form1.resources
+C:\Users\Patrik.DESKTOP-GR6UUPI\source\repos\Vreme\Vreme\obj\Debug\Vreme.Properties.Resources.resources
+C:\Users\Patrik.DESKTOP-GR6UUPI\source\repos\Vreme\Vreme\obj\Debug\Vreme.csproj.GenerateResource.cache
+C:\Users\Patrik.DESKTOP-GR6UUPI\source\repos\Vreme\Vreme\obj\Debug\Vreme.csproj.CoreCompileInputs.cache
+C:\Users\Patrik.DESKTOP-GR6UUPI\source\repos\Vreme\Vreme\obj\Debug\Vreme.exe
+C:\Users\Patrik.DESKTOP-GR6UUPI\source\repos\Vreme\Vreme\obj\Debug\Vreme.pdb
+C:\Users\Patrik.DESKTOP-GR6UUPI\source\repos\Vreme\Vreme\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Patrik.DESKTOP-GR6UUPI\source\repos\Vreme\Vreme\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Patrik.DESKTOP-GR6UUPI\source\repos\Vreme\Vreme\obj\Debug\Vreme.csproj.CopyComplete
+C:\Users\zelez\Downloads\Vreme\Vreme\Vreme\obj\Debug\Vreme.csproj.AssemblyReference.cache
+C:\Users\zelez\Downloads\Vreme\Vreme\Vreme\obj\Debug\Vreme.exe
+C:\Users\zelez\Downloads\Vreme\Vreme\Vreme\obj\Debug\Vreme.pdb
